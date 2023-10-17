@@ -1,0 +1,3 @@
+.bar:hover>div:first-child{
+  opacity: 1;
+}
